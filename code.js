@@ -1,4 +1,4 @@
-// Yazan Yiğit ÇıtakS
+// Yazan Yiğit Çıtak
 
 function Main(){
     var ImlecTop = 150;
